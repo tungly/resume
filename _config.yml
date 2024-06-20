@@ -9,7 +9,7 @@ version: 2
 name: Tung Bach Ly
 title: Nonprofit Leader | Operational Excellence through Strategic Tech
 email: mail@tung.ly
-website: tungly.github.io
+# website: tungly.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
