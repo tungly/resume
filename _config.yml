@@ -30,10 +30,10 @@ linkedin_username: tungly
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
- additional_links:
- - title: Get Time
-   icon: fas fa-calendar-plus
-   url: https://calendar.app.google/wED2LWs7nkTEycJU6
+additional_links:
+- title: Get Time
+  icon: fas fa-calendar-plus
+  url: https://calendar.app.google/wED2LWs7nkTEycJU6
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
