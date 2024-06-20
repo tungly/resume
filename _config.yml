@@ -1,5 +1,5 @@
 # Site
-repository: TungLy/tungly-github.io
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -7,16 +7,16 @@ version: 2
 
 # Personal info
 name: Tung Bach Ly
-title: Nonprofit Leader - Operational Excellence through Strategic Tech
+title: Nonprofit Leader | Operational Excellence through Strategic Tech
 email: mail@tung.ly
-website: www.github.com/TungLy/tungly-github.io
+website: tungly.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  TungLy
+github_username:  tungly
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -30,10 +30,10 @@ linkedin_username: tungly
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -41,7 +41,7 @@ additional_links:
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
+gtag: "G-3QP4H3BRV2"
 # google_analytics: "UA-00000000-0"
 
 # About Section
@@ -58,15 +58,15 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/TungLy
+        link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  TungLy/modern-tungly-github.io
+          - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/TungLy/modern-tungly-github.io
-          # - title:  Github page for project (eg. TungLy/modern-tungly-github.io)
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
-          #   url: Link to project (eg. TungLy.github.io/modern-tungly-github.io)
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
@@ -110,14 +110,14 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-tungly-github.io/images/landscape-trees.jpg "Trees")
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: TungLy/tungly-github.io
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
