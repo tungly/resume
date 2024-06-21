@@ -74,7 +74,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 4.0
+        title: 4.0 Schools
         link: 4pt0.org
         # link_text: boringcompany.com
         sub_title: Managing Director of Operations
