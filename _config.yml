@@ -83,6 +83,9 @@ content:
           4.0 invests in new, community-centered models of education, and provides coaching, curriculum, community and cash to those with the imagination to create a more equitable education ecosystem.
         description: | # this will include new lines to allow paragraphs
             In closing 4.0's Fund III chapter of growth, I shifted my role to incorporate a broader approach to operational maturity by
+            * Leading Evaluation, Learning and Data initiatives including defining a new Theory of Change, developing Logic Models, managing data collection and reporting, and directing program evaluation.
+            * Developing and leading knowledge management implementations and organizational learning initiatives
+            * Maintain an effective and safe remote work environment
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
