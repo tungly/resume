@@ -190,7 +190,69 @@ content:
       - layout: top-middle
         title: New Orleans Regional Leadership Institute
         caption: 2012
+  - title: Volunteer Experience
+    layout: list
+    content:
+      -layout: top
+        title: VAYLA New Orleans
+        caption: 2008 - Present
+        quote: >
+          A progressive multi-racial community-based organization in New Orleans that empowers youth and families through supportive services and organizing for cultural enrichment and positive social change.
+        description: |
+            * Chairman, Board of Directors -- 2012 - Present
+            * Secretary, Board of Directors -- 2009
+            * Member, Board of Directors -- 2008
+      -layout: top
+        title: Arts Council New Orleans
+        caption: 2018 - 2024
+        quote: >
+          Expand opportunities for diverse artistic expression and bring the community together in celebration of our rich multi-cultural heritage.
+        description: |
+            * LUNA Fête committee -- 2018 - 2022
+      -layout: top
+        title: Crescent City Community Land Trust
+        caption: 2018 - 2022
+        quote: >
+          Increasing opportunity and equity in New Orleans through community land trust-based commercial and residential development, helping local families access jobs, grow their own businesses, and live in affordable housing near areas of significant economic development and opportunity.
+        description: |
+            * Vice President, Board of Directors -- 2021 - 2022
+            * Secretary, Board of Directors -- 2019 - 2020
+      -layout: top
+        title: First Grace United Methodist Church
+        caption: 2019 - 2022
+        quote: >
+          Where the city worships | All are welcome
+        description: |
+            * Vice Chair, Church Council -- 2020 - 2022
+      -layout: top
+        title: Mid-City Security District
+        caption: 2018 - 2021
+        quote: >
+          A political subdivision of the State of Louisiana to provide security in Mid-City above and beyond that which would normally be provided by the New Orleans Police Department.
 
+        -layout: top
+        title: White House Police Data Initiative
+        caption: 2015
+        description: |
+          *  Member of volunteer Elite Tech Team supporting Camden County Police Department at initiative launch
+      -layout: top
+        title: Travel + Social Good New Orleans
+        caption: 2015 - 2017
+        quote: >
+          Now known as Impact Travel Alliance. Transforming the travel industry to act as a catalyst for solving the world's most pressing issues.
+
+      -layout: top
+        title: Awesome Foundation, New Orleans Chapter
+        caption: 2013 - 2016
+        quote: >
+          No strings attached, monthly micro-granting group
+      -layout: top
+        title: Social Entrepreneurs Of New Orleans
+        caption: 2008 - 2011
+        quote: >
+          Now known as Propeller: A Force for Social Innovation
+        description: |
+            * Infrastructure Committee Chair -- 2009 - 2011
 
 # Footer
 footer_show_references: true
