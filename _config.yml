@@ -87,10 +87,10 @@ content:
             * Developing and leading knowledge management implementations and organizational learning initiatives
             * Maintain an effective and safe remote work environment
       - layout: left
-        title:
-        link:
-        sub_title:
-        caption:
+        title: 4.0 Schools
+        link: 4pt0.org
+        sub_title: Data Engineer
+        caption: January 2021 - January 2023
         quote: >
           4.0 invests in new, community-centered models of education, and provides coaching, curriculum, community and cash to those with the imagination to create a more equitable education ecosystem.
         description: |
@@ -100,40 +100,65 @@ content:
             * Ensured all fellowship-candidates, fellows, alumni, and staff easily use the portal
       - layout: left
         title: City of New Orleans
-        link:
-        sub_title:
-        caption:
+        link: nola.gov
+        sub_title: Web Manager
+        caption: January 2016 - January 2021
         quote: >
-
+          The Office of Information Technology and Innovation facilitates effective, cost efficient use of technology by spearheading the assessment and deployment of technology based business management solutions, and service delivery strategies.
         description: |
-
+            A second tour of duty on the mission to enable municipal government to develop digital products and services. Current objectives non-exclusively include:
+            * Maintain a modern web environment and suite of digital marketing services
+            * Make it simple for citizens to find information
+            * Deliver value added service via digital marketing services platform with training & design thinking
+            * Increase the success rate of innovation by knowing our audiences, customers, and residents
       - layout: left
         title: PosiGen Solar Engergy and Energy Efficiency
-        link:
-        sub_title:
-        caption:
+        link: posigen.com
+        sub_title: Manager of Innovation & Technology
+        caption: August 2014 - January 2016
         quote: >
-
+          Dedicated to increasing energy independence and ensuring the financial security of the communities we serve, PosiGen pairs energy efficiency retrofits and solar power systems to reduce household energy consumption.
         description: |
-
+          PosiGen's mission of making a positive financial impact on the lives of homeowners resonated with me. I was recruited to the solar startup for his proven track record of marshaling tech-reluctant managers and staff in enterprise system implementations and integrations. I managed PosiGen's technology supporting the sales process including but not limited to:
+          * GIS analysis of markets including producing maps and data for business development
+          * housing burden and weather mitigation cost research supporting governmental relations
+          * marketing automation and lead generation
+          * telemarketing and lead qualifying
+          * sales presentation and customer savings modeling
+          * sales automation and electronic contracting
+          * consumer information compliance and customer identity security
+          I directly drove down the cost to acquire customers while increasing customer data quality for the enablement of lower maintenance costs over time.
       - layout: left
         title: City of New Orleans
-        link:
-        sub_title:
-        caption:
+        link: nola.gov
+        sub_title: User Adoption Specialist
+        caption: July 2011 - August 2014
         quote: >
-
+          The Office of Information Technology and Innovation facilitates effective, cost efficient use of technology by spearheading the assessment and deployment of technology based business management solutions, and service delivery strategies.
         description: |
-
+            Mayor Mitch Landrieu emphasized leveraging data for decision making. A critical lack of data existed from the missed ownership opportunities resulting from previous administrations’ preference toward outsourcing IT. I was recruited for my strong bridge building capacity, which was much needed to establish legitimacy to the department whose history was plagued by corruption. Although simplicity intuitively promotes use and ownership, I focused on coherence and understanding. With intricate complexities involved in the service, compliance, governing, policy, and protection processes of the City of New Orleans I set out not to simplify processes for staff but to create coherence among systems and endorse greater understanding between people and the systems they use.
+            I focused on enterprise systems that would be leveraged to improve customer service and increase revenue through economic development, including but not limited to permitting and licensing, land use and code enforcement, IT service delivery, and interdepartmental collaboration platforms.
+            Projects Included:
+            * BlightSTATUS.nola.gov blighted property search resource
+            * OneStop Online Licensing and Permitting
+            * NoticeMe.nola.gov proposed land-use change notification tool
+            * Rapid, Crowdsourced, Property Condition Data Techarrette
       - layout: left
         title: Louisiana Public Health Institute
-        link:
-        sub_title:
-        caption:
+        link: lphi.org
+        sub_title: Senior Program Analyst
+        caption: August 2005 - July 2011
         quote: >
-
+          LPHI creates and fosters collaborative endeavors in the areas of health information, public policy, applied research, and community capacity enhancement.
         description: |
-
+            I joined LPHI Wednesday August 24th 2005, days before Hurricane Katrina made landfall. The next couple months involved standing up a temporary office infrastructure 100 miles west in Baton Rouge, kludging and salvaging weathered and neglected equipment for reestablishing a headquarters in New Orleans, and extending infrastructure support to partner organizations including the Partnership for Access to Healthcare.
+            As operations recovered, I took on new technology projects. I was instrumental in developing an automated information extraction system for paper survey forms used to rapidly conduct surveys across 18 of the most severely hurricane-affected parishes in Louisiana. I began to facilitate the end to end implementation of technology from facilitating system selection to installing infrastructure to configuring the EMR to supporting physician adoption of the system through a “train the trainer” model.
+            Greater resources were made available as LPHI's track record was proven. I tackled business process re-engineering to enable the business intelligence and reporting requirements of federal grants. A team was hired to handle standing up new clinics. I coached and led this team of implementers who handled everything from EMR selection to achieving meaningful use to connecting to the health information exchange.
+            Projects Included:
+            * Health and Population Estimate
+            * Partnership for Access to Healthcare Information Systems
+            * Primary Care Access and Stabilization Grant
+            * Louisiana Health Care Information Technology Resource Center
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
