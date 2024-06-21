@@ -194,7 +194,7 @@ content:
   - title: Volunteer Experience
     layout: list
     content:
-      - layout: top
+      - layout: left
         title: VAYLA New Orleans
         caption: 2008 - Present
         quote: >
@@ -204,7 +204,7 @@ content:
             * Secretary, Board of Directors -- 2009
             * Member, Board of Directors -- 2008
 
-      - layout: top
+      - layout: left
         title: Arts Council New Orleans
         caption: 2018 - 2024
         quote: >
@@ -212,7 +212,7 @@ content:
         description: |
             * LUNA Fête committee -- 2018 - 2022
 
-      - layout: top
+      - layout: left
         title: Crescent City Community Land Trust
         caption: 2018 - 2022
         quote: >
@@ -221,7 +221,7 @@ content:
             * Vice President, Board of Directors -- 2021 - 2022
             * Secretary, Board of Directors -- 2019 - 2020
 
-      - layout: top
+      - layout: left
         title: First Grace United Methodist Church
         caption: 2019 - 2022
         quote: >
@@ -229,31 +229,31 @@ content:
         description: |
             * Vice Chair, Church Council -- 2020 - 2022
 
-      - layout: top
+      - layout: left
         title: Mid-City Security District
         caption: 2018 - 2021
         quote: >
           A political subdivision of the State of Louisiana to provide security in Mid-City above and beyond that which would normally be provided by the New Orleans Police Department.
 
-      - layout: top
+      - layout: left
         title: White House Police Data Initiative
         caption: 2015
         description: |
           *  Member of volunteer Elite Tech Team supporting Camden County Police Department at initiative launch
 
-      - layout: top
+      - layout: left
         title: Travel + Social Good New Orleans
         caption: 2015 - 2017
         quote: >
           Now known as Impact Travel Alliance. Transforming the travel industry to act as a catalyst for solving the world's most pressing issues.
 
-      - layout: top
+      - layout: left
         title: Awesome Foundation, New Orleans Chapter
         caption: 2013 - 2016
         quote: >
           No strings attached, monthly micro-granting group
 
-      - layout: top
+      - layout: left
         title: Social Entrepreneurs Of New Orleans
         caption: 2008 - 2011
         quote: >
