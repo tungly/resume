@@ -203,6 +203,7 @@ content:
             * Chairman, Board of Directors -- 2012 - Present
             * Secretary, Board of Directors -- 2009
             * Member, Board of Directors -- 2008
+            
       - layout: top
         title: Arts Council New Orleans
         caption: 2018 - 2024
@@ -210,6 +211,7 @@ content:
           Expand opportunities for diverse artistic expression and bring the community together in celebration of our rich multi-cultural heritage.
         description: |
             * LUNA Fête committee -- 2018 - 2022
+
       - layout: top
         title: Crescent City Community Land Trust
         caption: 2018 - 2022
@@ -218,6 +220,7 @@ content:
         description: |
             * Vice President, Board of Directors -- 2021 - 2022
             * Secretary, Board of Directors -- 2019 - 2020
+
       - layout: top
         title: First Grace United Methodist Church
         caption: 2019 - 2022
@@ -225,6 +228,7 @@ content:
           Where the city worships | All are welcome
         description: |
             * Vice Chair, Church Council -- 2020 - 2022
+
       - layout: top
         title: Mid-City Security District
         caption: 2018 - 2021
@@ -236,6 +240,7 @@ content:
         caption: 2015
         description: |
           *  Member of volunteer Elite Tech Team supporting Camden County Police Department at initiative launch
+
       - layout: top
         title: Travel + Social Good New Orleans
         caption: 2015 - 2017
@@ -247,6 +252,7 @@ content:
         caption: 2013 - 2016
         quote: >
           No strings attached, monthly micro-granting group
+
       - layout: top
         title: Social Entrepreneurs Of New Orleans
         caption: 2008 - 2011
