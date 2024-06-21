@@ -162,7 +162,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: Tulane University
         caption: 2000 - 2005
         sub_title: Biomedical Enginering, Political Science
@@ -190,6 +190,7 @@ content:
       - layout: top-middle
         title: New Orleans Regional Leadership Institute
         caption: 2012
+        
   - title: Volunteer Experience
     layout: list
     content:
