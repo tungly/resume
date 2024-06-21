@@ -203,7 +203,7 @@ content:
             * Chairman, Board of Directors -- 2012 - Present
             * Secretary, Board of Directors -- 2009
             * Member, Board of Directors -- 2008
-            
+
       - layout: top
         title: Arts Council New Orleans
         caption: 2018 - 2024
@@ -235,7 +235,7 @@ content:
         quote: >
           A political subdivision of the State of Louisiana to provide security in Mid-City above and beyond that which would normally be provided by the New Orleans Police Department.
 
-        - layout: top
+      - layout: top
         title: White House Police Data Initiative
         caption: 2015
         description: |
