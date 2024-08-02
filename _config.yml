@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
   👨‍💻🗺️🎓 Led the technical direction of a web-based learning experience for 200+ fellows and 1600+ alumni, introducing customer journey mapping to drive product development and enhance user satisfaction.
   👥🏃📱 Managed a four professional team responsible for NOLA.gov and suite of digital communications platforms serving 80+ agencies, and led the transition to an agile development methodology, accelerating product delivery and iteration.
   📉🧲🚀 Reduced cost to acquire customers by 60% and reduced customer attrition by 40% through the strategic implementation of Salesforce and integrated technologies, demonstrating the power of product-led growth.
-  
+
   Book an appointment and explore how I can drive innovation and growth for your organization's products!
 
 content:
@@ -104,6 +104,7 @@ content:
           * Lead technical direction for the organization by serving as Recommender and Approver in the organization's RAPID decision rights model for all data governance and data systems.
           * Review projects for technical feasibility and adherence to mission as Consultant or Approver in organization's MOCHA project management method.
           * Represent the organization for professional development content, alumni programming, and partnership committees on data strategy and information technology for early stage entrepreneurship and fellowship application and selection.
+          
           Produced user-centered data collection instruments in Qualtrics and leveraged Postgres SQL, Microsoft Excel, and Google Sheets to extract, load, and transform data for visualization. Customer journey mapping conducted on Google Sheets. Collaborated cross functionally on Slack, using Microsoft Word, Google Docs, Google Slides, and Zoom. Administered Google Workspace, Slack, and Zoom. Supported all aspects of maintaining MacBook Pros as organization provided virtual workspace terminals.
       - layout: left
         title: 4.0 Schools
@@ -123,6 +124,7 @@ content:
             * Developed cooperative relationships across program management to deliver service to fellows on 4.0 Portal and in a platform-less solution.
             * Maintained administrative and technical functionality of platforms utilized by 4.0 Portal by participating in vendor provided webinars and change logs.
             * Represented the organization on fellowship application and selection working groups.
+            
             Build business processes in Invisr Polystack using HTML, CSS, and Javascript and maintain backend Salesforce CRM. Implemented JSON Web Token integrations between 6Connex, 360Learning, Invisr Polystack, and Salesforce to provide a seamless SSO experience for fellows. Leveraged Qualtrics and Postgres SQL to collect data and extract, transform, and load it to Grow.com. Customer journey mapping conducted on Google Sheets. Collaborated cross functionally on Slack, using Microsoft Word, Google Docs, Google Slides, and Zoom. Administered Google Workspace, Slack, and Zoom.
       - layout: left
         title: City of New Orleans
@@ -142,7 +144,9 @@ content:
             * Conducted user research and developed personas to drive www.nola.gov information architecture overhaul towards a services inventory centered model.
             * Served on IT change management committee reviewing projects for technical feasibility and provided recommendations prior to project commencement.
             * Served as recognized authority on all web based software issues.
+            
             Maintained ASP.NET based CMS on WIndows 2012R2, 2016, and 2019 Servers. Built websites using HTML, CSS, and Javascript. Managed development of CMS using C# on GitLab CI/CD.
+            
             Web properties included: www.nola.gov, employee.nola.gov, ready.nola.gov, council.nola.gov, data.nola.gov, roadwork.nola.gov, nordc.org, onestopapp.nola.gov, czo.nola.gov, masterplan.nola.gov, gis.nola.gov, property.nola.gov, noticeme.nola.gov, filmneworleans.org, nopdnews.com, epic.nola.gov, joinnopd.com, hirenopd.com
       - layout: left
         title: PosiGen Solar Engergy and Energy Efficiency
@@ -157,6 +161,7 @@ content:
             * Translated functional requirements into user stories and technical specifications, packaged them into platform releases, consulted with CIO and CEO to set release schedules anticipating any potential opportunities and threats, and managed an off-shore development team to develop the platform releases using SCRUM methodology.
             * Provided leadership to IT service management staff including garnering executive support of IT best practices, determining size and roles necessary for project delivery, performance management of vendor provided service, and modeling human-centered design techniques to ensure the right products and services were developed.
             * Reduced cost to acquire customers by 60% and lowered customer disconnects by 40%.
+            
             Created consulting assets using Microsoft Visio, Microsoft PowerPoint, Microsoft Word, and Microsoft Excel. Collaborated on Microsoft Outlook. Defined technical specifications using Microsoft Visio, Microsoft PowerPoint, Microsoft Excel, wireframes, HTML, CSS, and Javascript.
       - layout: left
         title: City of New Orleans
@@ -177,6 +182,7 @@ content:
             * Facilitated design charette to develop the specifications and user stories for Rapid, Crowdsourced, Property Condition Data Collection Platform.
             * Facilitated adoption of SCRUM methodology into project management office.
             * Maintained the department's knowledge in the field of customer loyalty measurement and applied to partner agency customer service challenges.
+            
             Created consulting assets using Microsoft Visio, Microsoft PowerPoint, Microsoft Word, and Microsoft Excel. Collaborated on Microsoft Outlook. Defined technical specifications using wireframes, HTML, CSS, and Javascript.
       - layout: left
         title: Louisiana Public Health Institute
