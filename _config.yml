@@ -82,15 +82,15 @@ content:
         quote: >
           Assist leading the operations function of a non-profit venture philanthropy with a $6 million annual budget.
         description: | # this will include new lines to allow paragraphs
-          Facilitate development of organization's theory of change and program logic models with executive leadership.
-          Cooperatively train staff and provide accountability systems to ensure the organization adheres to its mission via execution of logic models and theory of change.
-          Lead cross functional teams and external partners to produce third party program evaluation and research reports.
-          Consult with individual program sub functions to set, evidence, and collect data for key performance indicators.
-          Drive data collection projects with customer journey mapping to ensure a human-centered approach leads the fellow and alumni experience.
-          Consult with program directors and finance function to translate functional requirements of receiving and granting funds to user stories and technical specifications.
-          Lead technical direction for the organization by serving as Recommender and Approver in the organization's RAPID decision rights model for all data governance and data systems.
-          Review projects for technical feasibility and adherence to mission as Consultant or Approver in organization's MOCHA project management method.
-          Represent the organization for professional development content, alumni programming, and partnership committees on data strategy and information technology for early stage entrepreneurship and fellowship application and selection.
+          * Facilitate development of organization's theory of change and program logic models with executive leadership.
+          * Cooperatively train staff and provide accountability systems to ensure the organization adheres to its mission via execution of logic models and theory of change.
+          * Lead cross functional teams and external partners to produce third party program evaluation and research reports.
+          * Consult with individual program sub functions to set, evidence, and collect data for key performance indicators.
+          * Drive data collection projects with customer journey mapping to ensure a human-centered approach leads the fellow and alumni experience.
+          * Consult with program directors and finance function to translate functional requirements of receiving and granting funds to user stories and technical specifications.
+          * Lead technical direction for the organization by serving as Recommender and Approver in the organization's RAPID decision rights model for all data governance and data systems.
+          * Review projects for technical feasibility and adherence to mission as Consultant or Approver in organization's MOCHA project management method.
+          * Represent the organization for professional development content, alumni programming, and partnership committees on data strategy and information technology for early stage entrepreneurship and fellowship application and selection.
           Produced user-centered data collection instruments in Qualtrics and leveraged Postgres SQL, Microsoft Excel, and Google Sheets to extract, load, and transform data for visualization. Customer journey mapping conducted on Google Sheets. Collaborated cross functionally on Slack, using Microsoft Word, Google Docs, Google Slides, and Zoom. Administered Google Workspace, Slack, and Zoom. Supported all aspects of maintaining MacBook Pros as organization provided virtual workspace terminals.
       - layout: left
         title: 4.0 Schools
@@ -100,16 +100,16 @@ content:
         quote: >
           Technical product manager for 4.0's web-based portal for 200 underway fellows and over 1,600 alumni.
         description: |
-            Introduced customer journey mapping to drive IT product development.
-            Determined development project objectives and priorities for 4.0 Portal; anticipated potential threats and opportunities emerging from consultation with program managers.
-            Translated functional requirements of program managers into user stories as well as reviewed and approved the development projects for technical feasibility and adherence to 4.0 Portal roadmap and vision.
-            Managed an outsourced development team using Kanban agile methodology.
-            Lead technical direction of 4.0 Portal, engaging executive leadership in evaluation of user-centered requirements and limiting platform specifications that met and hindered business requirements.
-            Advised executive leadership on the merits of proposed IT systems development projects.
-            Developed organization staff data literacy and served as the organization's authoritative resource on technical software and hardware challenges.
-            Developed cooperative relationships across program management to deliver service to fellows on 4.0 Portal and in a platform-less solution.
-            Maintained administrative and technical functionality of platforms utilized by 4.0 Portal by participating in vendor provided webinars and change logs.
-            Represented the organization on fellowship application and selection working groups.
+            * Introduced customer journey mapping to drive IT product development.
+            * Determined development project objectives and priorities for 4.0 Portal; anticipated potential threats and opportunities emerging from consultation with program managers.
+            * Translated functional requirements of program managers into user stories as well as reviewed and approved the development projects for technical feasibility and adherence to 4.0 Portal roadmap and vision.
+            * Managed an outsourced development team using Kanban agile methodology.
+            * Lead technical direction of 4.0 Portal, engaging executive leadership in evaluation of user-centered requirements and limiting platform specifications that met and hindered business requirements.
+            * Advised executive leadership on the merits of proposed IT systems development projects.
+            * Developed organization staff data literacy and served as the organization's authoritative resource on technical software and hardware challenges.
+            * Developed cooperative relationships across program management to deliver service to fellows on 4.0 Portal and in a platform-less solution.
+            * Maintained administrative and technical functionality of platforms utilized by 4.0 Portal by participating in vendor provided webinars and change logs.
+            * Represented the organization on fellowship application and selection working groups.
             Build business processes in Invisr Polystack using HTML, CSS, and Javascript and maintain backend Salesforce CRM. Implemented JSON Web Token integrations between 6Connex, 360Learning, Invisr Polystack, and Salesforce to provide a seamless SSO experience for fellows. Leveraged Qualtrics and Postgres SQL to collect data and extract, transform, and load it to Grow.com. Customer journey mapping conducted on Google Sheets. Collaborated cross functionally on Slack, using Microsoft Word, Google Docs, Google Slides, and Zoom. Administered Google Workspace, Slack, and Zoom.
       - layout: left
         title: City of New Orleans
@@ -119,16 +119,16 @@ content:
         quote: >
           Team manager for NOLA.gov, a collection of internal and public facing web properties facilitating the service of upwards of 80 agencies.
         description: |
-            Led vision and roadmap for a suite of digital communications platform including websites, webpages, web based forms, and email marketing.
-            Introduced SMS based subscriptions and interactive SMS as additional tools for agencies.
-            Led cross agency team to bring City Council central office to in-house web presence, email marketing, and SMS based subscriptions from fully outsourced public relations firm.
-            Led cross functional team to deliver full on-going emergency management communications website ready.nola.gov, email marketing, and SMS based subscriptions in Spanish and Vietnamese language.
-            Developed cooperative relationships with agencies to mitigate skills deficits and facilitated trainings to enable utilization of technologies new to the agency.
-            Engaged IT department leadership to transition CMS from Visual Studio to MVC, drastically improving development capacity and business continuity.
-            Moved CMS development to agile methodology and managed implementation of GitLab version control system.
-            Conducted user research and developed personas to drive www.nola.gov information architecture overhaul towards a services inventory centered model.
-            Served on IT change management committee reviewing projects for technical feasibility and provided recommendations prior to project commencement.
-            Served as recognized authority on all web based software issues.
+            * Led vision and roadmap for a suite of digital communications platform including websites, webpages, web based forms, and email marketing.
+            * Introduced SMS based subscriptions and interactive SMS as additional tools for agencies.
+            * Led cross agency team to bring City Council central office to in-house web presence, email marketing, and SMS based subscriptions from fully outsourced public relations firm.
+            * Led cross functional team to deliver full on-going emergency management communications website ready.nola.gov, email marketing, and SMS based subscriptions in Spanish and Vietnamese language.
+            * Developed cooperative relationships with agencies to mitigate skills deficits and facilitated trainings to enable utilization of technologies new to the agency.
+            * Engaged IT department leadership to transition CMS from Visual Studio to MVC, drastically improving development capacity and business continuity.
+            * Moved CMS development to agile methodology and managed implementation of GitLab version control system.
+            * Conducted user research and developed personas to drive www.nola.gov information architecture overhaul towards a services inventory centered model.
+            * Served on IT change management committee reviewing projects for technical feasibility and provided recommendations prior to project commencement.
+            * Served as recognized authority on all web based software issues.
             Maintained ASP.NET based CMS on WIndows 2012R2, 2016, and 2019 Servers. Built websites using HTML, CSS, and Javascript. Managed development of CMS using C# on GitLab CI/CD.
             Web properties included: www.nola.gov, employee.nola.gov, ready.nola.gov, council.nola.gov, data.nola.gov, roadwork.nola.gov, nordc.org, onestopapp.nola.gov, czo.nola.gov, masterplan.nola.gov, gis.nola.gov, property.nola.gov, noticeme.nola.gov, filmneworleans.org, nopdnews.com, epic.nola.gov, joinnopd.com, hirenopd.com
       - layout: left
@@ -139,12 +139,12 @@ content:
         quote: >
           IT project delivery consultant focused on sales enablement and mitigating install and service costs.
         description: |
-          Led design, roadmap, and technical direction of Salesforce platform to support business functions starting with market research, marketing, prospecting, sales, contracting, customer service, and customer retention.
-          Performed needs analyses to define opportunities for improved solutions based on staff needs including contract version control, CRM to telephony integration, solar production assessment to sales presentation integration, and IT helpdesk service.
-          Translated functional requirements into user stories and technical specifications, packaged them into platform releases, consulted with CIO and CEO to set release schedules anticipating any potential opportunities and threats, and managed an off-shore development team to develop the platform releases using SCRUM methodology.
-          Provided leadership to IT service management staff including garnering executive support of IT best practices, determining size and roles necessary for project delivery, performance management of vendor provided service, and modeling human-centered design techniques to ensure the right products and services were developed.
-          Reduced cost to acquire customers by 60% and lowered customer disconnects by 40%.
-          Created consulting assets using Microsoft Visio, Microsoft PowerPoint, Microsoft Word, and Microsoft Excel. Collaborated on Microsoft Outlook. Defined technical specifications using Microsoft Visio, Microsoft PowerPoint, Microsoft Excel, wireframes, HTML, CSS, and Javascript.
+            * Led design, roadmap, and technical direction of Salesforce platform to support business functions starting with market research, marketing, prospecting, sales, contracting, customer service, and customer retention.
+            * Performed needs analyses to define opportunities for improved solutions based on staff needs including contract version control, CRM to telephony integration, solar production assessment to sales presentation integration, and IT helpdesk service.
+            * Translated functional requirements into user stories and technical specifications, packaged them into platform releases, consulted with CIO and CEO to set release schedules anticipating any potential opportunities and threats, and managed an off-shore development team to develop the platform releases using SCRUM methodology.
+            * Provided leadership to IT service management staff including garnering executive support of IT best practices, determining size and roles necessary for project delivery, performance management of vendor provided service, and modeling human-centered design techniques to ensure the right products and services were developed.
+            * Reduced cost to acquire customers by 60% and lowered customer disconnects by 40%.
+            Created consulting assets using Microsoft Visio, Microsoft PowerPoint, Microsoft Word, and Microsoft Excel. Collaborated on Microsoft Outlook. Defined technical specifications using Microsoft Visio, Microsoft PowerPoint, Microsoft Excel, wireframes, HTML, CSS, and Javascript.
       - layout: left
         title: City of New Orleans
         link: nola.gov
@@ -153,17 +153,17 @@ content:
         quote: >
           IT project delivery consultant focused on enterprise systems for enhanced customer service and revenue growth in economic development.
         description: |
-            Engaged with land use, permitting, capital improvement, finance, administration, public safety, and customer service agencies performing needs analyses to define opportunities for new strategies based on resident and business needs, translate functional requirements into technical specifications, and serve as the authority for software adoption challenges.
-            Supported selection, implementation, staff adoption, and public access software development for OneStop initiative combining 17 licensing and permitting departments into a unified customer experience.
-            Increased annual sales tax revenues 31% from 2010 to 2014 or 7% year over year.
-            Led the selection, implementation, staff adoption, and service request portal deployment of IT service workorder system enabling adherence to increasing ITIL standards and capacity.
-            Developed service blueprint for IT service workorder system and reviewed configuration specification in adherence to the goals communicated within.
-            Ensured implementation of IT change management served the business needs of agencies.
-            Led IT service teams to develop and deploy their self-service offerings strategies.
-            Led design and roadmap for intranet strategy and development.
-            Facilitated design charette to develop the specifications and user stories for Rapid, Crowdsourced, Property Condition Data Collection Platform.
-            Facilitated adoption of SCRUM methodology into project management office.
-            Maintained the department's knowledge in the field of customer loyalty measurement and applied to partner agency customer service challenges.
+            * Engaged with land use, permitting, capital improvement, finance, administration, public safety, and customer service agencies performing needs analyses to define opportunities for new strategies based on resident and business needs, translate functional requirements into technical specifications, and serve as the authority for software adoption challenges.
+            * Supported selection, implementation, staff adoption, and public access software development for OneStop initiative combining 17 licensing and permitting departments into a unified customer experience.
+            * Increased annual sales tax revenues 31% from 2010 to 2014 or 7% year over year.
+            * Led the selection, implementation, staff adoption, and service request portal deployment of IT service workorder system enabling adherence to increasing ITIL standards and capacity.
+            * Developed service blueprint for IT service workorder system and reviewed configuration specification in adherence to the goals communicated within.
+            * Ensured implementation of IT change management served the business needs of agencies.
+            * Led IT service teams to develop and deploy their self-service offerings strategies.
+            * Led design and roadmap for intranet strategy and development.
+            * Facilitated design charette to develop the specifications and user stories for Rapid, Crowdsourced, Property Condition Data Collection Platform.
+            * Facilitated adoption of SCRUM methodology into project management office.
+            * Maintained the department's knowledge in the field of customer loyalty measurement and applied to partner agency customer service challenges.
             Created consulting assets using Microsoft Visio, Microsoft PowerPoint, Microsoft Word, and Microsoft Excel. Collaborated on Microsoft Outlook. Defined technical specifications using wireframes, HTML, CSS, and Javascript.
       - layout: left
         title: Louisiana Public Health Institute
@@ -173,20 +173,20 @@ content:
         quote: >
           IT program manager focused on workspace technology and business process reengineering for internal and external partners.
         description: |
-            Creates, executes and manages program strategy plans across IT functional‐groups, and revises as appropriate to meet changing needs and requirements with guidance from the IT Director.
-            Identifies resources needed and manages procurement.
-            Manages mission and direction of assigned project and scope.
-            Facilitates team and client meetings effectively.
-            Effectively communicates relevant program information to the IT Director.
-            Understands how to communicate sensitive information tactfully.
-            Possesses comprehensive understanding in the areas of application development, GIS, Web and spatial data analysis, database and system design, and core IT Infrastructure.
-            Communicates effectively with clients to identify needs and evaluate alternative business solutions.
-            Continually seeks opportunities to increase customer satisfaction and deepen client relationships.
-            Complies with and helps to enforce standard policies and procedures under guidance of the IT Director.
-            Served as recognized authority on optical character recognition of surveys for 2006 Louisiana Health and Population Estimate and developed and maintained metadata schema to serve data consumers.
-            Facilitated the end to end implementation of technology from facilitating system selection to architecting and installing infrastructure to configuring the electronic medical record to supporting physician adoption of the system through a train the trainer model for Partnership for Access to Healthcare.
-            Reengineered business processes to enable the business intelligence and reporting requirements of the Primary Care Access and Stabilization Grant.
-            Led a team of implementers for Louisiana Health Care Information Technology Resource Center who consulted partner agencies in electronic medical record selection, achieving meaningful use as defined by ONCHIT, and connecting to the health information exchange.
+            * Creates, executes and manages program strategy plans across IT functional‐groups, and revises as appropriate to meet changing needs and requirements with guidance from the IT Director.
+            * Identifies resources needed and manages procurement.
+            * Manages mission and direction of assigned project and scope.
+            * Facilitates team and client meetings effectively.
+            * Effectively communicates relevant program information to the IT Director.
+            * Understands how to communicate sensitive information tactfully.
+            * Possesses comprehensive understanding in the areas of application development, GIS, Web and spatial data analysis, database and system design, and core IT Infrastructure.
+            * Communicates effectively with clients to identify needs and evaluate alternative business solutions.
+            * Continually seeks opportunities to increase customer satisfaction and deepen client relationships.
+            * Complies with and helps to enforce standard policies and procedures under guidance of the IT Director.
+            * Served as recognized authority on optical character recognition of surveys for 2006 Louisiana Health and Population Estimate and developed and maintained metadata schema to serve data consumers.
+            * Facilitated the end to end implementation of technology from facilitating system selection to architecting and installing infrastructure to configuring the electronic medical record to supporting physician adoption of the system through a train the trainer model for Partnership for Access to Healthcare.
+            * Reengineered business processes to enable the business intelligence and reporting requirements of the Primary Care Access and Stabilization Grant.
+            * Led a team of implementers for Louisiana Health Care Information Technology Resource Center who consulted partner agencies in electronic medical record selection, achieving meaningful use as defined by ONCHIT, and connecting to the health information exchange.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
