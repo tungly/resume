@@ -80,12 +80,18 @@ content:
         sub_title: Managing Director of Operations
         caption: January 2023 - June 2024
         quote: >
-          4.0 invests in new, community-centered models of education, and provides coaching, curriculum, community and cash to those with the imagination to create a more equitable education ecosystem.
+          Assist leading the operations function of a non-profit venture philanthropy with a $6 million annual budget.
         description: | # this will include new lines to allow paragraphs
-            In closing 4.0's Fund III chapter of growth, I shifted my role to incorporate a broader approach to operational maturity by:
-            * Leading Evaluation, Learning and Data initiatives including defining a new Theory of Change, developing Logic Models, managing data collection and reporting, and directing program evaluation.
-            * Developing and leading knowledge management implementations and organizational learning initiatives
-            * Maintain an effective and safe remote work environment
+          Facilitate development of organization's theory of change and program logic models with executive leadership.
+          Cooperatively train staff and provide accountability systems to ensure the organization adheres to its mission via execution of logic models and theory of change.
+          Lead cross functional teams and external partners to produce third party program evaluation and research reports.
+          Consult with individual program sub functions to set, evidence, and collect data for key performance indicators.
+          Drive data collection projects with customer journey mapping to ensure a human-centered approach leads the fellow and alumni experience.
+          Consult with program directors and finance function to translate functional requirements of receiving and granting funds to user stories and technical specifications.
+          Lead technical direction for the organization by serving as Recommender and Approver in the organization's RAPID decision rights model for all data governance and data systems.
+          Review projects for technical feasibility and adherence to mission as Consultant or Approver in organization's MOCHA project management method.
+          Represent the organization for professional development content, alumni programming, and partnership committees on data strategy and information technology for early stage entrepreneurship and fellowship application and selection.
+          Produced user-centered data collection instruments in Qualtrics and leveraged Postgres SQL, Microsoft Excel, and Google Sheets to extract, load, and transform data for visualization. Customer journey mapping conducted on Google Sheets. Collaborated cross functionally on Slack, using Microsoft Word, Google Docs, Google Slides, and Zoom. Administered Google Workspace, Slack, and Zoom. Supported all aspects of maintaining MacBook Pros as organization provided virtual workspace terminals.
       - layout: left
         title: 4.0 Schools
         link: 4pt0.org
@@ -137,7 +143,7 @@ content:
         quote: >
           The Office of Information Technology and Innovation facilitates effective, cost efficient use of technology by spearheading the assessment and deployment of technology based business management solutions, and service delivery strategies.
         description: |
-            Mayor Mitch Landrieu emphasized leveraging data for decision making. A critical lack of data existed from the missed ownership opportunities resulting from previous administrations’ preference toward outsourcing IT. I was recruited for my strong bridge building capacity, which was much needed to establish legitimacy to the department whose history was plagued by corruption. Although simplicity intuitively promotes use and ownership, I focused on coherence and understanding. With intricate complexities involved in the service, compliance, governing, policy, and protection processes of the City of New Orleans I set out not to simplify processes for staff but to create coherence among systems and endorse greater understanding between people and the systems they use.
+            Mayor Mitch Landrieu emphasized leveraging data for decision making. A critical lack of data existed from the missed ownership opportunities resulting from previous administrations' preference toward outsourcing IT. I was recruited for my strong bridge building capacity, which was much needed to establish legitimacy to the department whose history was plagued by corruption. Although simplicity intuitively promotes use and ownership, I focused on coherence and understanding. With intricate complexities involved in the service, compliance, governing, policy, and protection processes of the City of New Orleans I set out not to simplify processes for staff but to create coherence among systems and endorse greater understanding between people and the systems they use.
             I focused on enterprise systems that would be leveraged to improve customer service and increase revenue through economic development, including but not limited to permitting and licensing, land use and code enforcement, IT service delivery, and interdepartmental collaboration platforms.
             Projects Included:
             * BlightSTATUS.nola.gov blighted property search resource
