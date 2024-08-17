@@ -105,9 +105,9 @@ content:
         sub_title: Managing Director of Operations
         caption: January 2023 - June 2024
         quote: >
-          Assist leading the operations function of a non-profit venture philanthropy with a $6 million annual budget.
+          Facilitate the operations function of a non-profit venture philanthropy with a $6 million annual budget.
         description: | # this will include new lines to allow paragraphs
-          * Facilitate development of organization's theory of change and program logic models with executive leadership.
+          * Led development of organization's theory of change and program logic models with executive leadership.
           * Cooperatively train staff and provide accountability systems to ensure the organization adheres to its mission via execution of logic models and theory of change.
           * Lead cross functional teams and external partners to produce third party program evaluation and research reports.
           * Consult with individual program sub functions to set, evidence, and collect data for key performance indicators.
@@ -141,7 +141,7 @@ content:
       - layout: left
         title: City of New Orleans
         link: nola.gov
-        sub_title: Web Manager
+        sub_title: Technical Product Manager
         caption: January 2016 - January 2021
         quote: >
           Team manager for NOLA.gov, a collection of internal and public facing web properties facilitating the service of upwards of 80 agencies.
@@ -163,10 +163,10 @@ content:
       - layout: left
         title: PosiGen Solar Engergy and Energy Efficiency
         link: posigen.com
-        sub_title: Manager of Innovation & Technology
+        sub_title: Sales Enablement Technology Manager
         caption: August 2014 - January 2016
         quote: >
-          IT project delivery consultant focused on sales enablement and mitigating install and service costs.
+          IT project delivery manager focused on sales enablement and mitigating install and service costs.
         description: |
             * Led design, roadmap, and technical direction of Salesforce platform to support business functions starting with market research, marketing, prospecting, sales, contracting, customer service, and customer retention.
             * Performed needs analyses to define opportunities for improved solutions based on staff needs including contract version control, CRM to telephony integration, solar production assessment to sales presentation integration, and IT helpdesk service.
@@ -178,7 +178,7 @@ content:
       - layout: left
         title: City of New Orleans
         link: nola.gov
-        sub_title: User Adoption Specialist
+        sub_title: Customer Experience Transformation Specialist
         caption: July 2011 - August 2014
         quote: >
           IT project delivery consultant focused on enterprise systems for enhanced customer service and revenue growth in economic development.
