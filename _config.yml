@@ -99,6 +99,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Promise
+        link: joinpromise.com
+        sub_title: Implementation and Product Support Specialist
+        caption: October 2024 - Current
+        quote: >
+          Individual contributor focused on scaling zero defect implementations of Promise products and outreach campaigns.
+      - layout: left
         title: 4.0 Schools
         link: 4pt0.org
         # link_text: boringcompany.com
