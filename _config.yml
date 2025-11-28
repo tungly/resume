@@ -271,14 +271,6 @@ content:
             * Member, Board of Directors -- 2008
 
       - layout: left
-        title: Arts Council New Orleans
-        caption: 2018 - 2024
-        quote: >
-          Expand opportunities for diverse artistic expression and bring the community together in celebration of our rich multi-cultural heritage.
-        description: |
-            * LUNA Fête committee -- 2018 - 2022
-
-      - layout: left
         title: Autumn Chase Property Owners Association
         caption: 2022 - 2024
         quote: >
@@ -287,6 +279,14 @@ content:
             * President -- 2024
             * Secretary -- 2023
             * Member at Large -- 2022
+
+      - layout: left
+        title: Arts Council New Orleans
+        caption: 2018 - 2024
+        quote: >
+          Expand opportunities for diverse artistic expression and bring the community together in celebration of our rich multi-cultural heritage.
+        description: |
+            * LUNA Fête committee -- 2018 - 2022
 
       - layout: left
         title: Crescent City Community Land Trust
